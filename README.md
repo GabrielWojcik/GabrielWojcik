@@ -8,9 +8,6 @@
 
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielWojcik&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielWojcik)](https://github.com/GabrielWojcik/github-readme-stats)
-
-
 ## Tecnologias
 <div style="display: inline_block">
     <img align="center" alt="JEST" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white">
