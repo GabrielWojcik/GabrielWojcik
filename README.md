@@ -23,5 +23,4 @@
 
 </div><br/>
 
-Programador Front-end com experiência na criação de sites responsivos e aplicativos mobile. Utilizo principalmente React, NextJs e Styled-Components, com ênfase nas melhores práticas e Clean Code.
-
+Desenvolvedor Front-end com sólida experiência em aplicações web e mobile, usando React, React Native, Next.js, TypeScript e AWS. Comprometido com performance, Clean Code e testes automatizados com Jest e Cypress. Certificado AWS Cloud Practitioner, atuo com metodologias ágeis como Scrum e Kanban para entregas colaborativas e contínuas.
